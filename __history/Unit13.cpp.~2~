@@ -16,6 +16,6 @@ __fastcall TForm13::TForm13(TComponent* Owner)
 //---------------------------------------------------------------------------
 void __fastcall TForm13::Button1Click(TObject *Sender)
 {
-  ShowMessage(L"Version: KITT");
+  ShowMessage(L"Version: KARR");
 }
 //---------------------------------------------------------------------------

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2017/02/04 01:28:08.661,=d:\data\documents\Embarcadero\Studio\Projects\Project10PCH1.h</Transaction>
-    <Transaction>2017/02/04 01:28:08.692,=d:\data\documents\Embarcadero\Studio\Projects\Unit13.cpp</Transaction>
-    <Transaction>2017/02/04 01:28:22.527,D:\git\test\Unit13.cpp=d:\data\documents\Embarcadero\Studio\Projects\Unit13.cpp</Transaction>
-    <Transaction>2017/02/04 01:28:22.527,D:\git\test\Unit13.h=d:\data\documents\Embarcadero\Studio\Projects\Unit13.h</Transaction>
-    <Transaction>2017/02/04 01:28:22.527,D:\git\test\Unit13.dfm=d:\data\documents\Embarcadero\Studio\Projects\Unit13.dfm</Transaction>
-    <Transaction>2017/02/04 01:28:23.517,D:\git\test\Project10PCH1.h=d:\data\documents\Embarcadero\Studio\Projects\Project10PCH1.h</Transaction>
-    <Transaction>2017/02/04 01:28:24.094,D:\git\test\Project10.cbproj=d:\data\documents\Embarcadero\Studio\Projects\Project10.cbproj</Transaction>
-    <Transaction>2017/02/04 01:28:31.099,D:\git\test\DemoOnePCH1.h=D:\git\test\Project10PCH1.h</Transaction>
-    <Transaction>2017/02/04 01:28:31.113,D:\git\test\DemoOne.cbproj=D:\git\test\Project10.cbproj</Transaction>
+	<Transactions>
+    <Transaction>2017/02/04 01:28:08.000.661,=d:\data\documents\Embarcadero\Studio\Projects\Project10PCH1.h</Transaction>
+    <Transaction>2017/02/04 01:28:08.000.692,=d:\data\documents\Embarcadero\Studio\Projects\Unit13.cpp</Transaction>
+    <Transaction>2017/02/04 01:28:22.000.527,d:\data\documents\Embarcadero\Studio\Projects\Unit13.h=D:\git\test\Unit13.h</Transaction>
+    <Transaction>2017/02/04 01:28:22.000.527,d:\data\documents\Embarcadero\Studio\Projects\Unit13.cpp=D:\git\test\Unit13.cpp</Transaction>
+    <Transaction>2017/02/04 01:28:22.000.527,d:\data\documents\Embarcadero\Studio\Projects\Unit13.dfm=D:\git\test\Unit13.dfm</Transaction>
+    <Transaction>2017/02/04 01:28:23.000.517,d:\data\documents\Embarcadero\Studio\Projects\Project10PCH1.h=D:\git\test\Project10PCH1.h</Transaction>
+    <Transaction>2017/02/04 01:28:24.000.094,d:\data\documents\Embarcadero\Studio\Projects\Project10.cbproj=D:\git\test\Project10.cbproj</Transaction>
+    <Transaction>2017/02/04 01:28:31.000.113,D:\git\test\Project10.cbproj=D:\git\test\DemoOne.cbproj</Transaction>
+    <Transaction>2017/02/04 01:28:31.000.099,D:\git\test\Project10PCH1.h=D:\git\test\DemoOnePCH1.h</Transaction>
   </Transactions>
 </BorlandProject>
